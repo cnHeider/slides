@@ -12,7 +12,7 @@ relu-relu-relu-tanh-relu-relu-relu-linear
 
 Model1
 
-'''
+´´´
 def encoding_layers(encoding_size):
   return [
     BatchNormalization(),
@@ -29,13 +29,13 @@ def encoding_layers(encoding_size):
 
     Dense(encoding_size, activation='tanh')
   ]
-'''
+´´´
 
 +++
 
 Model1
 
-'''
+´´´
 def decoding_layers(input_size):
   return [
     BatchNormalization(),
@@ -52,7 +52,7 @@ def decoding_layers(input_size):
 
     Dense(input_size, activation='linear')
   ]
-'''
+´´´
 
 +++
 
