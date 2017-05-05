@@ -1,5 +1,43 @@
 ---
 
+'''
+def encoding_layers(encoding_size):
+  return [
+    BatchNormalization(),
+    Dropout(0.2),
+    Dense(500, activation='relu'),
+
+    BatchNormalization(),
+    Dropout(0.2),
+    Dense(250, activation='relu'),
+
+    BatchNormalization(),
+    Dropout(0.2),
+    Dense(50, activation='relu'),
+
+    Dense(encoding_size, activation='tanh')
+  ]
+
+def decoding_layers(input_size):
+  return [
+    BatchNormalization(),
+    Dropout(0.2),
+    Dense(50, activation='relu'),
+
+    BatchNormalization(),
+    Dropout(0.2),
+    Dense(250, activation='relu'),
+
+    BatchNormalization(),
+    Dropout(0.2),
+    Dense(500, activation='relu'),
+
+    Dense(input_size, activation='linear')
+  ]
+'''
+
+
+
 Model1
 
 ![pca1](3pca-model1.png)
