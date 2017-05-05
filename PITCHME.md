@@ -73,26 +73,32 @@ The 50 principle components
 
 ---
 ![r1](original-model-1.png)
++++
 ![r1](reconstruction-model-1.png)
 
 ---
 ![r2](original-model-1-2.png)
++++
 ![r2](reconstruction-model-1-2.png)
 
 ---
 ![r3](original-model-1-3.png)
++++
 ![r3](reconstruction-model-1-3.png)
 
 ---
 ![r4](original-model-1-4.png)
++++
 ![r4](reconstruction-model-1-4.png)
 
 ---
 ![r5](original-model-1-5.png)
++++
 ![r5](reconstruction-model-1-5.png)
 
 ---
 ![r6](original-model-1-6.png)
++++
 ![r6](reconstruction-model-1-6.png)
 
 ---
