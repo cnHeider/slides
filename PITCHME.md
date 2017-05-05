@@ -66,6 +66,11 @@ def decoding_layers(input_size):
 
 ![pca4](3pca-model1-4.png)
 
++++
+
+DD
+
++++?gist=92814a9bfbe076e4613778165133538b
 ---
 
 The End :)
