@@ -2,7 +2,7 @@
 
 Model1
 
-The archiecture\:
+The archiecture
 
 7200-500-250-50-250-500-7200
 
