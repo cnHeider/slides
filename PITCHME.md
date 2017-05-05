@@ -1,6 +1,6 @@
 ---
 
-Model1
+Model
 
 The archiecture:
 
@@ -50,6 +50,9 @@ def decoding_layers(input_size):
   ]
 ```
 
+---
+The 50 principle components
+
 +++
 
 ![pca1](3pca-model1.png)
@@ -66,11 +69,32 @@ def decoding_layers(input_size):
 
 ![pca4](3pca-model1-4.png)
 
-+++
+---?gist=92814a9bfbe076e4613778165133538b
 
-DD
+---
+![r1](original-model-1.png)
+![r1](reconstruction-model-1.png)
 
-+++?gist=92814a9bfbe076e4613778165133538b
+---
+![r2](original-model-1-2.png)
+![r2](reconstruction-model-1-2.png)
+
+---
+![r3](original-model-1-3.png)
+![r3](reconstruction-model-1-3.png)
+
+---
+![r4](original-model-1-4.png)
+![r4](reconstruction-model-1-4.png)
+
+---
+![r5](original-model-1-5.png)
+![r5](reconstruction-model-1-5.png)
+
+---
+![r6](original-model-1-6.png)
+![r6](reconstruction-model-1-6.png)
+
 ---
 
 The End :)
