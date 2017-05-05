@@ -4,7 +4,7 @@ Model
 
 The archiecture:
 
-7200-500-250-50-250-500-7200
+7200-500-250-50-50-50-250-500-7200
 
 relu-relu-relu-tanh-relu-relu-relu-linear
 
