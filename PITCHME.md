@@ -1,17 +1,21 @@
 ---
+
 Model1
 
 ![pca1](3pca-model1.png)
 
 +++
+
 Model1
 
 ![pca2](3pca-model1-2.png)
 
 +++
+
 Model1
 
 ![pca3](3pca-model1-3.png)
+
 +++
 
 Model1
